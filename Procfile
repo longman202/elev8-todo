@@ -1,0 +1,1 @@
+web: gunicorn ELEV8_LEARNING.wsgi --log-file -
