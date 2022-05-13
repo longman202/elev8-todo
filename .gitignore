@@ -1,0 +1,3 @@
+elev8learningvenv
+*.sqlite
+__pycache__
