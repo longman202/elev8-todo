@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'pythontodo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_341BFBBC44664BFEA456F08EF02C69D0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B7361E46D9F7498588EEFD997877F160 }}
